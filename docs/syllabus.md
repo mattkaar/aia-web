@@ -51,7 +51,7 @@ The keystone components of AIA are the scenario-based team exercises. To
 complete these hands-on exercises, students will login to the CyberLEAP
 virtual environment: (<https://cyberleap.cmu.edu>). The TA will brief
 and debrief students on the objectives, requirements, and solutions for
-each exercise. Teams will have until the following **Monday at 12:00pm**
+each exercise. Teams will have until the following **Monday at 12:00pm ET**
 to complete each exercise.
 
 ## Homework Assignments
@@ -60,13 +60,13 @@ Students must complete video lessons and hands-on labs as homework. A
 CyberLEAP course will be used to organize and provide access to these
 assignments. The system automatically tracks student progress. Students
 must complete the required homework by the following **Monday at
-12:00pm**. This gives the TA time to grade homework prior to the start
+12:00pm ET**. This gives the TA time to grade homework prior to the start
 of class each week.
 
 ## Group Projects
 
-The goal of the project is to provide a meaningful <ins>learning
-experience</ins> (new hands-on lab) for future AIA students. By
+The goal of the project is to provide a meaningful _learning
+experience_ (new hands-on lab) for future AIA students. By
 **week 2** of the course, students must select teammates with whom they
 will co-develop a group project. These **4 person** teams will research,
 integrate, and document a cybersecurity technology instructional lab.
@@ -102,9 +102,9 @@ project plan submitted on week 4.
     within the TopoMojo Markdown editor. Along with step-by-step
     instructions, this document must also contain instructive,
     contextual information that describes why the specific steps are
-    being completed.\
-    \
-    This document must be the [original work]{.underline} of the team.
+    being completed.
+
+    This document must be the **original work** of the team.
     Proper citation of all technical sources is required and can be
     included in the *References* section of the lab document. If
     plagiarism is identified in the submitted group project, all
@@ -202,26 +202,26 @@ after the 24-hour grace period._
 ### Course Grading Summary
 
 | Assignment | Points |
-| ---------- | ------ |
+| ---------- | -----: |
 | Enterprise Information Security Part 1 | 50 |
 | Enterprise Information Security Part 2 | 50 |
-| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1 | 55 |
-| TRAC Part 2 | 55 |
+| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1 | 50 |
+| TRAC Part 2 | 50 |
 | XYZ Bank Team Exercise Part 1 | 60 |
 | XYZ Bank Part 2 | 60 |
-| Operation Aurora Capstone Exercise | 100 |
+| Operation Aurora Capstone Exercise | 150 |
 | In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) | 80 |
 | Homework Assignments (10 pts x 12 weeks of the course) | 120
 | Group Projects | 300 |
 | Group Project Attendance | 30 |
-| **TOTAL** | **960** |
+| **TOTAL** | **1000** |
 
 ### Group Project Rubric
 
 | Graded Item | Points |
 | ----------- | ------ |
 | **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow._ | 120 |
-| **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught adn demonstrated. Demo works as planned without unacceptable errors or delays._ | 80 |
+| **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ | 80 |
 | **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._ | 50 |
 | **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._ | 50 |
 | **TOTAL** | **300** |
@@ -230,20 +230,21 @@ after the 24-hour grace period._
 
 | Week # | Date | Class | Exercise/Homework |
 | ------ | ---- | -------- | -------- |
-| **1** (Kaar, Herr) | xxx | Course Overview<br/>Hacking Lecture | |
-| **2** (Herr) | xxx | Data Security | EIS Prep Labs 1-6 |
-| **3** (Kaar) | xxx | Host Security | EIS Prep Labs 7-11 |
-| **4** (Herr) | xxx | Network Security<br/>_Group Project Proposals Due_ | EIS Exercise Part 1 |
-| **5** (Kaar) | xxx | Monitoring, Detection & Response | EIS Exercise Part 2 |
-| **6** (Herr) | xxx | Introduction to Cyber Forensics | TRAC Exercise Part 1 |
-| **7** (Kaar) | xxx | Advances in Cyber Forensics | TRAC Exercise Part 2 |
-| **8** (Kaar, Herr) | xxx | _Group Project Check-in_ | XYZ Bank Exercise Part 1 |
-| **9** (Herr) | xxx | Cloud Security | XYZ Bank Exercise Part 2 |
-| **10** (Zhang) | xxx | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | Operation Aurora Part 1 |
-| **11** | xxx | _Project Peer Reviews Due_ | Operation Aurora Part 2 |
-| **12** | xxx | _Group Projects Due_<br/>Group Project Presentations | Homework: Complete this week's group project labs. |
-| **13** | xxx | Group Project Presentations | Homework: Complete this week's group project labs. |
-| **14** | xxx | Group Project Presentations | Homework: Complete this week's group project labs. |
+| **1** (Kaar, Herr) | Jan 18 | Course Overview<br/>Hacking Lecture | |
+| **2** (Herr) | Jan 25 | Data Security | EIS Prep Labs 1-6 |
+| **3** (Kaar) | Feb 1 | Host Security | EIS Prep Labs 7-11 |
+| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | EIS Exercise Part 1 |
+| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | EIS Exercise Part 2 |
+| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | TRAC Exercise Part 1 |
+| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | TRAC Exercise Part 2 |
+| _SPRING BREAK_ | _Mar 8_ | _No class_ | |
+| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | XYZ Bank Exercise Part 1 |
+| **9** (Herr) | Mar 22 | Cloud Security | XYZ Bank Exercise Part 2 |
+| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | Operation Aurora Part 1 |
+| **11** | Apr 5 | _Project Peer Reviews Due_ | Operation Aurora Part 2 |
+| **12** | Apr 12 | _Group Projects Due_<br/>Group Project Presentations | This week's group project labs |
+| **13** | Apr 19 | Group Project Presentations | Group project labs |
+| **14** | Apr 26 | Group Project Presentations | Group project labs |
 
 ## Course Policies
 
@@ -351,7 +352,7 @@ withdraw from the university.
 
 According to the [University Policy on Academic
 Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
-cheating \"occurs when a student avails her/himself of an unfair or
+cheating "occurs when a student avails her/himself of an unfair or
 disallowed advantage which includes but is not limited to:
 
 1. Theft of or unauthorized access to an exam, answer key or other
@@ -374,7 +375,7 @@ disallowed advantage which includes but is not limited to:
 
 According to the [University Policy on Academic
 Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
-plagiarism \"is defined as the use of work or concepts contributed by
+plagiarism "is defined as the use of work or concepts contributed by
 other individuals without proper attribution or citation. Unique ideas
 or materials taken from another source for either written or oral use
 must be fully acknowledged in academic work to be graded. Examples of
@@ -391,7 +392,7 @@ sources expected to be referenced include but are not limited to:
 5. Scientific data.
 
 6. Concepts or material derived from the work, published or
-   unpublished, of another person.\"
+   unpublished, of another person."
 
 ***This policy applies, in all respects, to this course.***
 
@@ -399,7 +400,7 @@ sources expected to be referenced include but are not limited to:
 
 According to the [University Policy on Academic
 Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
-unauthorized assistance \"refers to the use of sources of support that
+unauthorized assistance "refers to the use of sources of support that
 have not been specifically authorized in this policy statement or by the
 course instructor(s) in the completion of academic work to be graded.
 Such sources of support may include but are not limited to advice or
@@ -426,7 +427,7 @@ include but are not limited to:
    second course without first obtaining permission from the
    instructor(s) of the second course. In the case of concurrent
    courses, permission to submit the same work for credit in two
-   courses must be obtained from the instructors of both courses.\"
+   courses must be obtained from the instructors of both courses."
 
 ***This policy applies, in all respects, to this course.***
 
