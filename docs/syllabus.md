@@ -219,7 +219,7 @@ after the 24-hour grace period._
 ### Group Project Rubric
 
 | Graded Item | Points |
-| ----------- | ------ |
+| ----------- | -----: |
 | **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow._ | 120 |
 | **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ | 80 |
 | **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._ | 50 |
