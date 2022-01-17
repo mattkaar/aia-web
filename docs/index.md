@@ -1,4 +1,4 @@
-![](/assets/cmu-ini-wordmark.png){ width="400px" }
+![](./assets/cmu-ini-wordmark.png){ width="400px" }
 {: style="margin-top:0.5em;margin-bottom:2em"}
 
 # Applied Information Assurance (INI 14-761)
