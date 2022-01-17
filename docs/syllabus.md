@@ -230,21 +230,21 @@ after the 24-hour grace period._
 
 | Week # | Date | Class | Exercise/Homework |
 | ------ | ---- | -------- | -------- |
-| **1** (Kaar, Herr) | Jan 18 | Course Overview<br/>Hacking Lecture | |
-| **2** (Herr) | Jan 25 | Data Security | EIS Prep Labs 1-6 |
-| **3** (Kaar) | Feb 1 | Host Security | EIS Prep Labs 7-11 |
-| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | EIS Exercise Part 1 |
-| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | EIS Exercise Part 2 |
-| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | TRAC Exercise Part 1 |
-| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | TRAC Exercise Part 2 |
+| **1** (Kaar, Herr) | Jan 18 | Course Overview<br/>Hacking Lecture | **HW1:** TopoMojo Labs |
+| **2** (Herr) | Jan 25 | Data Security | **HW2:** EIS Prep Labs 1-6 |
+| **3** (Kaar) | Feb 1 | Host Security | **HW3:** EIS Prep Labs 7-11 |
+| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | **Team:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | **Team:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | **Team:** TRAC Exercise Part 1<br/>**HW6:** TopoMojo |
+| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | **Team:** TRAC Exercise Part 2<br/>**HW7:** TopoMojo |
 | _SPRING BREAK_ | _Mar 8_ | _No class_ | |
-| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | XYZ Bank Exercise Part 1 |
-| **9** (Herr) | Mar 22 | Cloud Security | XYZ Bank Exercise Part 2 |
-| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | Operation Aurora Part 1 |
-| **11** | Apr 5 | _Project Peer Reviews Due_ | Operation Aurora Part 2 |
-| **12** | Apr 12 | _Group Projects Due_<br/>Group Project Presentations | This week's group project labs |
-| **13** | Apr 19 | Group Project Presentations | Group project labs |
-| **14** | Apr 26 | Group Project Presentations | Group project labs |
+| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | **Team:** XYZ Bank Exercise Part 1<br/>**HW8:** TopoMojo |
+| **9** (Herr) | Mar 22 | Cloud Security | **Team:** XYZ Bank Exercise Part 2<br/>**HW9:** TopoMojo |
+| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Team:** Operation Aurora Part 1 |
+| **11** | Apr 5 | _Project Peer Reviews Due_ | **Team:** Operation Aurora Part 2 |
+| **12** | Apr 12 | _Group Projects Due_<br/>Group Project Presentations | **HW10:** This week's group project labs |
+| **13** | Apr 19 | Group Project Presentations | **HW11:** Group project labs |
+| **14** | Apr 26 | Group Project Presentations | **HW12:** Group project labs |
 
 ## Course Policies
 
