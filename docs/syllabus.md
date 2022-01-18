@@ -1,6 +1,10 @@
 ![](./assets/cmu-ini-wordmark.png){ width="400px" }
 {: style="margin-top:0.5em;margin-bottom:2em"}
 
+!!! announcement
+
+    Per [CMU's recent COVID-19 update](https://www.cmu.edu/coronavirus/news-and-communications/communications-archive/2022/january/important-update-about-the-start-of-spring-semester.html), the first two weeks of AIA will be taught remotely via Zoom. See the [Canvas course page](https://canvas.cmu.edu/courses/27928) for the Zoom URL.
+
 # Syllabus
 
 **14-761: Applied Information Assurance**  
@@ -10,8 +14,8 @@ _Spring 2022_
 
 | | |
 | ----------- | ------------------ |
-| **Instructors** | Matt Kaar ([mkaar@cmu.edu](mailto:mkaar@cmu.edu))<br/> Chris Herr ([cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)) |
-| **Teaching Assistant** | Jinze (John) Zhang ([jinzez@andrew.cmu.edu](mailto:jinzez@andrew.cmu.edu)) |
+| **Instructors** | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
+| **Teaching Assistant** | Jinze (John) Zhang <[jinzez@andrew.cmu.edu](mailto:jinzez@andrew.cmu.edu)> |
 | **Office Hours** | Zoom&mdash;by appointment|
 | **Units** | 12 |
 | **Sections** | A (Pittsburgh), SV (Silicon Valley)
@@ -104,11 +108,15 @@ project plan submitted on week 4.
     contextual information that describes why the specific steps are
     being completed.
 
-    This document must be the **original work** of the team.
-    Proper citation of all technical sources is required and can be
-    included in the *References* section of the lab document. If
-    plagiarism is identified in the submitted group project, all
-    students will receive a **ZERO (0)** for the assignment.
+    !!! warning "Plagiarism Warning"
+
+        The lab manual must be the **original work** of the team.
+        Proper citation of all technical sources is required and can be
+        included in the *References* section of the lab document. If
+        plagiarism is identified in the submitted group project, all
+        students will receive a **ZERO (0)** for the assignment.
+
+        More information can be found in the [AIA Plagiarism Policy](#plagiarism-policy).
 
     -   At least **5** automated verification scripts must be included
         in the lab that when run, validate successful completion of the
@@ -133,7 +141,7 @@ project plan submitted on week 4.
     incorporate any suggestions/changes into their final project
     submission.
 
-5.  **Present:** All teams will be given approximately 25 minutes during
+5.  **Present:** All teams will be given approximately 30 minutes during
     the last 3 weeks of the course to present their project to the rest
     of the class. The teams must first present an overview of their lab
     (3-4 slides) that introduce the topic, learning objectives, and key
@@ -144,12 +152,12 @@ project plan submitted on week 4.
     week. Class attendance is **mandatory** during the group project
     presentations.
 
-**Project** **deliverables:**
+### Project Deliverables
 
--   Lab manual in the TopoMojo Markdown editor
+1. Lab manual in the TopoMojo Markdown editor
 
--   TopoMojo virtual machines and any required ISO images. VMs must be
-    saved in the correct final starting state.
+2. TopoMojo virtual machines and any required ISO images. VMs must be
+   saved in the correct final starting state.
 
 The above deliverables must be ready for grading by the start of class
 on **week 12**. The order of the presentations will be selected at
@@ -209,7 +217,8 @@ after the 24-hour grace period._
 | TRAC Part 2 | 50 |
 | XYZ Bank Team Exercise Part 1 | 60 |
 | XYZ Bank Part 2 | 60 |
-| Operation Aurora Capstone Exercise | 150 |
+| Operation Aurora Capstone Exercise Part 1 | 75 |
+| Operation Aurora Part 2 | 75 |
 | In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) | 80 |
 | Homework Assignments (10 pts x 12 weeks of the course) | 120
 | Group Projects | 300 |
@@ -233,15 +242,15 @@ after the 24-hour grace period._
 | **1** (Kaar, Herr) | Jan 18 | Course Overview<br/>Hacking Lecture | **HW1:** TopoMojo Labs |
 | **2** (Herr) | Jan 25 | Data Security | **HW2:** EIS Prep Labs 1-6 |
 | **3** (Kaar) | Feb 1 | Host Security | **HW3:** EIS Prep Labs 7-11 |
-| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | **Team:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | **Team:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | **Team:** TRAC Exercise Part 1<br/>**HW6:** TopoMojo |
-| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | **Team:** TRAC Exercise Part 2<br/>**HW7:** TopoMojo |
+| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo |
+| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo |
 | _SPRING BREAK_ | _Mar 8_ | _No class_ | |
-| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | **Team:** XYZ Bank Exercise Part 1<br/>**HW8:** TopoMojo |
-| **9** (Herr) | Mar 22 | Cloud Security | **Team:** XYZ Bank Exercise Part 2<br/>**HW9:** TopoMojo |
-| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Team:** Operation Aurora Part 1 |
-| **11** | Apr 5 | _Project Peer Reviews Due_ | **Team:** Operation Aurora Part 2 |
+| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo |
+| **9** (Herr) | Mar 22 | Cloud Security | **Exercise:** XYZ Bank Exercise Part 2<br/>**HW9:** TopoMojo |
+| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
+| **11** | Apr 5 | _Project Peer Reviews Due_ | **Exercise:** Operation Aurora Part 2 |
 | **12** | Apr 12 | _Group Projects Due_<br/>Group Project Presentations | **HW10:** This week's group project labs |
 | **13** | Apr 19 | Group Project Presentations | **HW11:** Group project labs |
 | **14** | Apr 26 | Group Project Presentations | **HW12:** Group project labs |
@@ -263,7 +272,7 @@ Services: 412-268-2922.
 
 ### Statement on Academic Integrity
 
-<https://www.cmu.edu/student-affairs/theword/academic/statement-on-academic-integrity.html>
+_[cmu.edu/student-affairs/theword/academic/statement-on-academic-integrity.html](https://cmu.edu/student-affairs/theword/academic/statement-on-academic-integrity.html)_
 
 Carnegie Mellon University educates its students to become professionals
 who will serve society with integrity. The university also creates and
@@ -315,7 +324,7 @@ to a campus atmosphere which expects and supports academic integrity.
 
 ### Carnegie Mellon Code
 
-<https://www.cmu.edu/student-affairs/theword/code/>
+_[cmu.edu/student-affairs/theword/code/](https://www.cmu.edu/student-affairs/theword/code/)_
 
 Students at Carnegie Mellon, because they are members of an academic
 community dedicated to the achievement of excellence, are expected to
@@ -350,8 +359,8 @@ withdraw from the university.
 
 ### Cheating Policy
 
-According to the [University Policy on Academic
-Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
+According to the [_University Policy on Academic
+Integrity_](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
 cheating "occurs when a student avails her/himself of an unfair or
 disallowed advantage which includes but is not limited to:
 
@@ -373,8 +382,8 @@ disallowed advantage which includes but is not limited to:
 
 ### Plagiarism Policy
 
-According to the [University Policy on Academic
-Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
+According to the [_University Policy on Academic
+Integrity_](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
 plagiarism "is defined as the use of work or concepts contributed by
 other individuals without proper attribution or citation. Unique ideas
 or materials taken from another source for either written or oral use
@@ -398,8 +407,8 @@ sources expected to be referenced include but are not limited to:
 
 ### Unauthorized Assistance Policy
 
-According to the [University Policy on Academic
-Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
+According to the [_University Policy on Academic
+Integrity_](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html),
 unauthorized assistance "refers to the use of sources of support that
 have not been specifically authorized in this policy statement or by the
 course instructor(s) in the completion of academic work to be graded.
@@ -433,8 +442,8 @@ include but are not limited to:
 
 ### Research Misconduct Policy
 
-According to the [University Policy for Handling Alleged Misconduct in
-Research](https://www.cmu.edu/policies/research/handling-alleged-misconduct-in-research.html),
+According to the [_University Policy for Handling Alleged Misconduct in
+Research_](https://www.cmu.edu/policies/research/handling-alleged-misconduct-in-research.html),
 "Carnegie Mellon University is responsible for the integrity of research
 conducted at the university. As a community of scholars, in which truth
 and integrity are fundamental, the university must establish procedures

@@ -2,12 +2,16 @@ site_name: "INI 14-761: Applied Information Assurance"
 site_url: https://www.andrew.cmu.edu/course/14-761/
 site_author: Matt Kaar, Chris Herr
 site_description: This course focuses on practical applications of Information Assurance (IA) policies and technologies in enterprise network environments.
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   features:
     - navigation.instant
+    - navigation.tracking
   icon:
     logo: material/school
+  favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -26,3 +30,6 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
