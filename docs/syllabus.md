@@ -15,7 +15,7 @@ _Spring 2022_
 | | |
 | ----------- | ------------------ |
 | **Instructors** | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
-| **Teaching Assistant** | Jinze (John) Zhang <[jinzez@andrew.cmu.edu](mailto:jinzez@andrew.cmu.edu)> |
+| **Teaching Assistants** | Jinze (John) Zhang <[jinzez@andrew.cmu.edu](mailto:jinzez@andrew.cmu.edu)><br />Jiawei (Jarry) Xiao <[jarryx@cmu.edu](mailto:jarryx@cmu.edu)> |
 | **Office Hours** | Zoom&mdash;by appointment|
 | **Units** | 12 |
 | **Sections** | A (Pittsburgh), SV (Silicon Valley)
@@ -108,13 +108,15 @@ project plan submitted on week 4.
     contextual information that describes why the specific steps are
     being completed.
 
-    !!! warning "Plagiarism Warning"
+    !!! warning "Plagiarism Warning!"
 
         The lab manual must be the **original work** of the team.
         Proper citation of all technical sources is required and can be
         included in the *References* section of the lab document. If
         plagiarism is identified in the submitted group project, all
-        students will receive a **ZERO (0)** for the assignment.
+        students will receive a **ZERO (0)** for the assignment, and an
+        _Academic Integrity Violation Report_ will be submitted to
+        the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
 
         More information can be found in the [AIA Plagiarism Policy](#plagiarism-policy).
 
