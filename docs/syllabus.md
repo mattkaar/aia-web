@@ -23,17 +23,38 @@ _Fall 2022_
 
 This course focuses on practical applications of Information Assurance (IA) and cybersecurity policies and technologies in enterprise network environments. The course is designed around virtual lab environments and exercise scenarios that provide for robust and realistic hands-on experiences within a broad range of IA topic areas. Students are provided numerous practical opportunities to apply cybersecurity best practices to solve real-world problems. AIA classes include short lectures and in-class hands-on activities. Class participation is required. Zoom and Piazza will facilitate student participation. The TA will serve as moderator during classes.
 
+## Course Objectives
+
+At the end of the course, students should be able to:
+
+-   Define Defense-in Depth as it applies to Information Assurance
+-   List and describe nine Foundations of Information Assurance
+-   Identify and execute common threats to IT Enterprises
+-   List common host security best practices and implement controls
+-   List common network security best practices and implement controls
+-   Identify common network monitoring best practices, implement same on IT networks, and analyze collected data for anomalous behavior
+-   Compare common cryptosystems, implement and evaluate data encryption/integrity approaches on IT systems and networks
+-   Recognize and describe technical benefits and challenges encryption has on information assurance and cyber forensics
+-   Describe the incident response process and apply process during live and simulated cyber security events
+-   Correctly use common incident response tools to identify, collect and analyze data in search of malicious activities on IT networks
+-   Describe the digital forensic process and apply this during live and simulated cyber investigations
+-   Correctly use common digital forensics tools to acquire and analyze forensic evidence
+
+## Coursework
+
+### Homework Assignments
+
+Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-project) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 12:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
+
+### Weekly Quizzes
+
 The instructors will use 10-question quizzes at the beginning of class (weeks 2-10) to evaluate student understanding of the homework assignments and lecture content. To make these assessments more enjoyable for the students, we will use the Kahoot game-based web/mobile application to administer the quizzes. To get credit and enable grading, each student must use their **Andrew ID** for Nicknames for each Kahoot quiz. Five bonus points will be given to students finishing in first place on each quiz. If the winning number of correct answers is the same across both sections (Pittsburgh and Silicon Valley), bonus points will be earned by one student in each section that week. Also, the lowest quiz score will be dropped for each student.
 
-## Team Exercises
+### Team Exercises
 
 The keystone components of AIA are the scenario-based team exercises. To complete these hands-on exercises, students will login to the CyberLEAP virtual environment: (<https://cyberleap.cmu.edu>). The TA will brief and debrief students on the objectives, requirements, and solutions for each exercise. Teams will have until the following **Monday at 12:00pm ET** to complete each exercise.
 
-## Homework Assignments
-
-Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-projects) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 12:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
-
-## Group Projects
+### Group Project
 
 The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **week 2** of the course, students must select teammates with whom they will co-develop a group project. These **4 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
 
@@ -59,7 +80,7 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
 5.  **Present:** All teams will be given approximately 30 minutes during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
 
-### Project Deliverables
+#### Project Deliverables
 
 1. Lab manual in the TopoMojo Markdown editor
 
@@ -67,33 +88,6 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
 The above deliverables must be ready for grading by the start of class on **week 12**. The order of the presentations will be selected at random, although teams can volunteer to present ahead of time if desired. To ensure all teams are provided the same project delivery timeline, teams will be locked out of their TopoMojo workspaces on week 12.
 
-## Course Objectives
-
-At the end of the course, students should be able to:
-
--   Define Defense-in Depth as it applies to Information Assurance
-
--   List and describe nine Foundations of Information Assurance
-
--   Identify and execute common threats to IT Enterprises
-
--   List common host security best practices and implement controls
-
--   List common network security best practices and implement controls
-
--   Identify common network monitoring best practices, implement same on IT networks, and analyze collected data for anomalous behavior
-
--   Compare common cryptosystems, implement and evaluate data encryption/integrity approaches on IT systems and networks
-
--   Recognize and describe technical benefits and challenges encryption has on information assurance and cyber forensics
-
--   Describe the incident response process and apply process during live and simulated cyber security events
-
--   Correctly use common incident response tools to identify, collect and analyze data in search of malicious activities on IT networks
-
--   Describe the digital forensic process and apply this during live and simulated cyber investigations
-
--   Correctly use common digital forensics tools to acquire and analyze forensic evidence
 
 ## Evaluation & Grading
 
