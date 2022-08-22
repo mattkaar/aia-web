@@ -1,28 +1,24 @@
 ![](./assets/cmu-ini-wordmark.png){ width="400px" }
 {: style="margin-top:0.5em;margin-bottom:2em"}
 
-!!! announcement
-
-    Per [CMU's recent COVID-19 update](https://www.cmu.edu/coronavirus/news-and-communications/communications-archive/2022/january/important-update-about-the-start-of-spring-semester.html), the first two weeks of AIA will be taught remotely via Zoom. See the [Canvas course page](https://canvas.cmu.edu/courses/27928) for the Zoom URL.
-
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Spring 2022_
+_Fall 2022_
 
 ## Course Details
 
-| | |
-| ----------- | ------------------ |
-| **Instructors** | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
-| **Teaching Assistants** | Jinze (John) Zhang <[jinzez@andrew.cmu.edu](mailto:jinzez@andrew.cmu.edu)><br />Jiawei (Jarry) Xiao <[jarryx@cmu.edu](mailto:jarryx@cmu.edu)> |
-| **Office Hours** | Zoom&mdash;by appointment|
-| **Units** | 12 |
-| **Sections** | A (Pittsburgh), SV (Silicon Valley)
-| **Prerequisites** | None |
-| **Class Schedule** | Tuesdays @ 3:35-6:15pm ET, 12:35-3:15pm PT |
-| **Class Location** | INI DEC (Pittsburgh), B23 211 (Silicon Valley)|
-| **Textbook Information** | N/A |
+|                          |                                                                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **Instructors**          | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
+| **Teaching Assistants**  | Harshit Maheshwari <[hsmahesh@andrew.cmu.edu](mailto:hsmahesh@andrew.cmu.edu)>                                            |
+| **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
+| **Units**                | 12                                                                                                                        |
+| **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
+| **Prerequisites**        | None                                                                                                                      |
+| **Class Schedule**       | Tuesdays @ 4:40-6:50pm ET, 1:40-3:50pm PT                                                                                 |
+| **Class Location**       | INI DEC (Pittsburgh), B23 211 (Silicon Valley)                                                                            |
+| **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
 
@@ -60,12 +56,7 @@ to complete each exercise.
 
 ## Homework Assignments
 
-Students must complete video lessons and hands-on labs as homework. A
-CyberLEAP course will be used to organize and provide access to these
-assignments. The system automatically tracks student progress. Students
-must complete the required homework by the following **Monday at
-12:00pm ET**. This gives the TA time to grade homework prior to the start
-of class each week.
+Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-projects) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 12:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
 
 ## Group Projects
 
@@ -94,7 +85,7 @@ project plan submitted on week 4.
         planned instructional objectives of their hands-on lab project.
 
 2.  **Build:** Teams will build their projects using the TopoMojo lab
-    builder interface (<https://topomojo.ini.cmu.edu>). This will
+    builder interface. This will
     significantly ease the overhead required to create/network the VMs
     (**max 5)**. Your VMs can be bridged to access the Internet during
     the build phase; however, your final lab must **NOT** require
@@ -211,51 +202,51 @@ after the 24-hour grace period._
 
 ### Course Grading Summary
 
-| Assignment | Points |
-| ---------- | -----: |
-| Enterprise Information Security Part 1 | 50 |
-| Enterprise Information Security Part 2 | 50 |
-| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1 | 50 |
-| TRAC Part 2 | 50 |
-| XYZ Bank Team Exercise Part 1 | 60 |
-| XYZ Bank Part 2 | 60 |
-| Operation Aurora Capstone Exercise Part 1 | 75 |
-| Operation Aurora Part 2 | 75 |
-| In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) | 80 |
-| Homework Assignments (10 pts x 12 weeks of the course) | 120
-| Group Projects | 300 |
-| Group Project Attendance | 30 |
-| **TOTAL** | **1000** |
+| Assignment                                                                             |   Points |
+| -------------------------------------------------------------------------------------- | -------: |
+| Enterprise Information Security Part 1                                                 |       50 |
+| Enterprise Information Security Part 2                                                 |       50 |
+| Tactical Response and Analysis Challenge (TRAC) Team Exercise Part 1                   |       50 |
+| TRAC Part 2                                                                            |       50 |
+| XYZ Bank Team Exercise Part 1                                                          |       60 |
+| XYZ Bank Part 2                                                                        |       60 |
+| Operation Aurora Capstone Exercise Part 1                                              |       75 |
+| Operation Aurora Part 2                                                                |       75 |
+| In-Class Kahoot! Quizzes (10 pts x 9 weeks of the course&mdash;drop lowest quiz score) |       80 |
+| Homework Assignments (10 pts x 12 weeks of the course)                                 |      120 |
+| Group Projects                                                                         |      300 |
+| Group Project Attendance                                                               |       30 |
+| **TOTAL**                                                                              | **1000** |
 
 ### Group Project Rubric
 
-| Graded Item | Points |
-| ----------- | -----: |
-| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow._ | 120 |
-| **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ | 80 |
-| **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._ | 50 |
-| **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._ | 50 |
-| **TOTAL** | **300** |
+| Graded Item                                                                                                                                                                |  Points |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: |
+| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow._                                       |     120 |
+| **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ |      80 |
+| **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._                            |      50 |
+| **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._                            |      50 |
+| **TOTAL**                                                                                                                                                                  | **300** |
 
 ## Course Calendar
 
-| Week # | Date | Class | Exercise/Homework |
-| ------ | ---- | -------- | -------- |
-| **1** (Kaar, Herr) | Jan 18 | Course Overview<br/>Hacking Lecture | **HW1:** TopoMojo Labs |
-| **2** (Herr) | Jan 25 | Data Security | **HW2:** EIS Prep Labs 1-6 |
-| **3** (Kaar) | Feb 1 | Host Security | **HW3:** EIS Prep Labs 7-11 |
-| **4** (Herr) | Feb 8 | Network Security<br/>_Group Project Proposals Due_ | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Kaar) | Feb 15 | Monitoring, Detection & Response | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr) | Feb 22 | Introduction to Cyber Forensics | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo |
-| **7** (Kaar) | Mar 1 | Advances in Cyber Forensics | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo |
-| _SPRING BREAK_ | _Mar 8_ | _No class_ | |
-| **8** (Kaar, Herr) | Mar 15 | _Group Project Check-in_ | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo |
-| **9** (Herr) | Mar 22 | Cloud Security | **Exercise:** XYZ Bank Exercise Part 2<br/>**HW9:** TopoMojo |
-| **10** (Zhang) | Mar 29 | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
-| **11** | Apr 5 | _Project Peer Reviews Due_ | **Exercise:** Operation Aurora Part 2 |
-| **12** | Apr 12 | _Group Projects Due_<br/>Group Project Presentations | **HW10:** This week's group project labs |
-| **13** | Apr 19 | Group Project Presentations | **HW11:** Group project labs |
-| **14** | Apr 26 | Group Project Presentations | **HW12:** Group project labs |
+| Week #              | Date     | Class                                                           | Exercise/Homework                                       |
+| ------------------- | -------- | --------------------------------------------------------------- | ------------------------------------------------------- |
+| **1** (Kaar, Herr)  | Aug 30   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Sep 6    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Kaar)        | Sep 13   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Sep 20   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar)        | Sep 27   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Kaar)        | Oct 4    | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Herr)        | Oct 11   | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _FALL BREAK_        | _Oct 18_ | _No class_                                                      |                                                         |
+| **8** (Kaar, Herr)  | Oct 25   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr)        | Nov 1    | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10** (Maheshwari) | Nov 8    | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
+| **11**              | Nov 15   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2                   |
+| **12**              | Nov 22   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
+| **13**              | Nov 29   | Group Project Presentations                                     | **HW11:** Group project labs                            |
+| **14**              | Dec 6    | Group Project Presentations                                     | **HW12:** Group project labs                            |
 
 ## Course Policies
 
