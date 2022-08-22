@@ -234,21 +234,3 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 6. Submission for credit of previously completed graded work in a second course without first obtaining permission from the instructor(s) of the second course. In the case of concurrent courses, permission to submit the same work for credit in two courses must be obtained from the instructors of both courses."
 
 ***This policy applies, in all respects, to this course.***
-
-### Research Misconduct Policy
-
-According to the [_University Policy for Handling Alleged Misconduct in Research_](https://www.cmu.edu/policies/research/handling-alleged-misconduct-in-research.html), "Carnegie Mellon University is responsible for the integrity of research conducted at the university. As a community of scholars, in which truth and integrity are fundamental, the university must establish procedures for the investigation of allegations of misconduct of research with due care to protect the rights of those accused, those making the allegations, and the university. Furthermore, federal regulations require the university to have explicit procedures for addressing incidents in which there are allegations of misconduct in research."
-
-The policy goes on to note that "misconduct means:
-
-1. fabrication, falsification, plagiarism, or other serious deviation from accepted practices in proposing, carrying out, or reporting results from research;
-
-2. material failure to comply with Federal requirements for the protection of researchers, human subjects, or the public or for ensuring the welfare of laboratory animals; or
-
-3. failure to meet other material legal requirements governing research."
-
-"To be deemed misconduct for the purposes of this policy, a 'material failure to comply with Federal requirements' or a 'failure to meet other material legal requirements' must be intentional or grossly negligent."
-
-To become familiar with the expectations around the responsible conduct of research, please review the guidelines for Research Ethics published by the Office of Research Integrity and Compliance.
-
-***This policy applies, in all respects, to this course.***
