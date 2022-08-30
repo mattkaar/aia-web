@@ -136,7 +136,6 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | D+           | 66%                       |
 | D            | 60%                       |
 | D-           | 58%                       |
-| F            | 0%                        |
 
 ## Course Calendar
 
