@@ -124,19 +124,19 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 ### Letter Grade Cutoffs
 
 | Letter Grade | &GreaterEqual; Percentage |
-| ------------ | ------------------------ |
-| A            | 90%                      |
-| A-           | 88%                      |
-| B+           | 86%                      |
-| B            | 80%                      |
-| B-           | 78%                      |
-| C+           | 76%                      |
-| C            | 70%                      |
-| C-           | 68%                      |
-| D+           | 66%                      |
-| D            | 60%                      |
-| D-           | 58%                      |
-| F            | 0%                       |
+| ------------ | ------------------------- |
+| A            | 90%                       |
+| A-           | 88%                       |
+| B+           | 86%                       |
+| B            | 80%                       |
+| B-           | 78%                       |
+| C+           | 76%                       |
+| C            | 70%                       |
+| C-           | 68%                       |
+| D+           | 66%                       |
+| D            | 60%                       |
+| D-           | 58%                       |
+| F            | 0%                        |
 
 ## Course Calendar
 
