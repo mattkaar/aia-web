@@ -78,7 +78,7 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
 4.  **Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 2 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
 
-5.  **Present:** All teams will be given approximately 30 minutes during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
+5.  **Present:** All teams will be given 20-25 minutes during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
 
 #### Project Deliverables
 
@@ -120,6 +120,23 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._                            |      50 |
 | **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._                            |      50 |
 | **TOTAL**                                                                                                                                                                  | **300** |
+
+### Letter Grade Cutoffs
+
+| Letter Grade | &GreaterEqual; Percentage |
+| ------------ | ------------------------ |
+| A            | 90%                      |
+| A-           | 88%                      |
+| B+           | 86%                      |
+| B            | 80%                      |
+| B-           | 78%                      |
+| C+           | 76%                      |
+| C            | 70%                      |
+| C-           | 68%                      |
+| D+           | 66%                      |
+| D            | 60%                      |
+| D-           | 58%                      |
+| F            | 0%                       |
 
 ## Course Calendar
 
