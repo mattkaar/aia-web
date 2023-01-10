@@ -3,20 +3,20 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Fall 2022_
+_Spring 2023_
 
 ## Course Details
 
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Instructors**          | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
-| **Teaching Assistants**  | Harshit Maheshwari <[hsmahesh@andrew.cmu.edu](mailto:hsmahesh@andrew.cmu.edu)>                                            |
+| **Teaching Assistants**  | Ankshit Jain <[ankshitj@andrew.cmu.edu](mailto:ankshitj@andrew.cmu.edu)>                                            |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
-| **Class Schedule**       | Tuesdays @ 4:40-6:50pm ET, 1:40-3:50pm PT                                                                                 |
-| **Class Location**       | INI DEC (Pittsburgh), B23 211 (Silicon Valley)                                                                            |
+| **Class Schedule**       | Tuesdays @ 4:00-6:50pm ET, 1:00-3:50pm PT                                                                                 |
+| **Class Location**       | INI DEC (Pittsburgh), B23 212 (Silicon Valley)                                                                            |
 | **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
@@ -141,21 +141,21 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #              | Date     | Class                                                           | Exercise/Homework                                       |
 | ------------------- | -------- | --------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Kaar, Herr)  | Aug 30   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Sep 6    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Kaar)        | Sep 13   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Sep 20   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Kaar)        | Sep 27   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Kaar)        | Oct 4    | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Herr)        | Oct 11   | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _FALL BREAK_        | _Oct 18_ | _No class_                                                      |                                                         |
-| **8** (Kaar, Herr)  | Oct 25   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr)        | Nov 1    | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10** (Maheshwari) | Nov 8    | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
-| **11**              | Nov 15   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2                   |
-| **12**              | Nov 22   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
-| **13**              | Nov 29   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Dec 6    | Group Project Presentations                                     | **HW12:** Group project labs                            |
+| **1** (Kaar, Herr)  | Jan 17   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Jan 24    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Kaar)        | Jan 31   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Feb 7   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar)        | Feb 14   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr)        | Feb 21    | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Feb 28   | Cyber Forensics Special Topics                                    | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _SPRING BREAK_        | _Mar 7_ | _No class_                                                      |                                                         |
+| **8** (Kaar, Herr)  | Mar 14   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr)        | Mar 21    | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10** (Jain) | Mar 28    | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
+| **11**              | Apr 4   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2                   |
+| **12**              | Apr 11   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
+| **13**              | Apr 18   | Group Project Presentations                                     | **HW11:** Group project labs                            |
+| **14**              | Apr 25    | Group Project Presentations                                     | **HW12:** Group project labs                            |
 
 ## Course Policies
 
