@@ -44,7 +44,7 @@ At the end of the course, students should be able to:
 
 ### Homework Assignments
 
-Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-project) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 12:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
+Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-project) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 4:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
 
 ### Weekly Quizzes
 
@@ -52,17 +52,17 @@ The instructors will use 10-question quizzes at the beginning of class (weeks 2-
 
 ### Team Exercises
 
-The keystone components of AIA are the scenario-based team exercises. To complete these hands-on exercises, students will login to the CyberLEAP virtual environment: (<https://cyberleap.cmu.edu>). The TA will brief and debrief students on the objectives, requirements, and solutions for each exercise. Teams will have until the following **Monday at 12:00pm ET** to complete each exercise.
+The keystone components of AIA are the scenario-based team exercises. To complete these hands-on exercises, students will login to TopoMojo and/or the CyberLEAP virtual environment: (<https://cyberleap.cmu.edu>), depending on the exercise. The TA will brief and debrief students on the objectives, requirements, and solutions for each exercise. Teams will have until the following **Monday at 4:00pm ET** to complete each exercise.
 
 ### Group Project
 
-The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **week 2** of the course, students must select teammates with whom they will co-develop a group project. These **4 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
+The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **Week 2** of the course, students must select teammates with whom they will co-develop a group project. These **3-4 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **Week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
 
-1.  **Plan:** Teams must submit a 1-2 page group project proposal no later than the start of class on **week 4** of the course. An exemplar proposal will be provided.
+1.  **Plan:** Teams must submit a 1-2 page group project proposal no later than the start of class on **Week 4** of the course. An exemplar proposal will be provided.
 
     -   This proposal should first describe the team's technical topic and problem being addressed. Next, teams must lay out the planned schedule of development, workload breakdown showing each team member's planned tasks/responsibilities, as well as the planned instructional objectives of their hands-on lab project.
 
-2.  **Build:** Teams will build their projects using the TopoMojo lab builder interface. This will significantly ease the overhead required to create/network the VMs (**max 5)**. Your VMs can be bridged to access the Internet during the build phase; however, your final lab must **NOT** require Internet access in its final state. Additionally, teams must **NOT** use the bridge-net IP space (10.9.8.0/24) in their project network.  The TAs will demonstrate how to use bridge-net in class.
+2.  **Build:** Teams will build their projects using the TopoMojo lab builder interface. This will significantly ease the overhead required to create/network the VMs (**max 5)**. Your VMs can be bridged to access the Internet during the build phase; however, your final lab must **NOT** require Internet access in its final state. Additionally, teams must **NOT** use the bridge-net IP space (10.9.8.0/24) in their project network.  The TA will demonstrate how to use bridge-net in class.
 
 3.  **Document:** A lab manual must be written clearly and concisely within the TopoMojo Markdown editor. Along with step-by-step instructions, this document must also contain instructive, contextual information that describes why the specific steps are being completed.
 
@@ -76,9 +76,9 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
     -   A second appendix must include the quiz questions and answers included in the scripts.
 
-4.  **Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 2 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
+4.  **Peer Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 3 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
 
-5.  **Present:** All teams will be given **20-25 minutes** during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
+5.  **Present:** All teams will be given **25-30 minutes** during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
 
 #### Project Deliverables
 
@@ -86,10 +86,12 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
 2. TopoMojo virtual machines and any required ISO images. VMs must be saved in the correct final starting state.
 
-The above deliverables must be ready for grading by the start of class on **week 12**. The order of the presentations will be selected at random, although teams can volunteer to present ahead of time if desired. To ensure all teams are provided the same project delivery timeline, teams will be locked out of their TopoMojo workspaces on week 12.
+The above deliverables must be ready for grading by the start of class on **Week 12**. The order of the presentations will be selected at random, although teams can volunteer to present first if desired. To ensure all teams are provided the same project delivery timeline, teams will be locked out of their TopoMojo workspaces on week 12.
 
 
 ## Evaluation & Grading
+
+### Late Submissions
 
 Students who miss assignment deadlines will have **24 hours** to submit late work. Late submissions will incur a **10%** deduction. _No points are awarded after the 24-hour grace period._
 
@@ -155,7 +157,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **11**              | Apr 4   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2                   |
 | **12**              | Apr 11   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
 | **13**              | Apr 18   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Apr 25    | Group Project Presentations                                     | **HW12:** Group project labs                            |
+| **14**              | Apr 25    | Group Project Presentations<br/>Capstone CTF (bonus points)                                     | **HW12:** Group project labs                            |
 
 ## Course Policies
 
