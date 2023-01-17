@@ -10,7 +10,7 @@ _Spring 2023_
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Instructors**          | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
-| **Teaching Assistants**  | Ankshit Jain <[ankshitj@andrew.cmu.edu](mailto:ankshitj@andrew.cmu.edu)>                                            |
+| **Teaching Assistant**  | Ankshit Jain <[ankshitj@andrew.cmu.edu](mailto:ankshitj@andrew.cmu.edu)>                                            |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
@@ -58,6 +58,13 @@ The keystone components of AIA are the scenario-based team exercises. To complet
 
 The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **Week 2** of the course, students must select teammates with whom they will co-develop a group project. These **3-4 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **Week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
 
+#### Project Workflow
+
+``` mermaid
+flowchart LR
+    Plan --> Build --> Document --> Review --> Present
+```
+
 1.  **Plan:** Teams must submit a 1-2 page group project proposal no later than the start of class on **Week 4** of the course. An exemplar proposal will be provided.
 
     -   This proposal should first describe the team's technical topic and problem being addressed. Next, teams must lay out the planned schedule of development, workload breakdown showing each team member's planned tasks/responsibilities, as well as the planned instructional objectives of their hands-on lab project.
@@ -76,7 +83,7 @@ The goal of the project is to provide a meaningful _learning experience_ (new ha
 
     -   A second appendix must include the quiz questions and answers included in the scripts.
 
-4.  **Peer Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 3 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
+4.  **Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 3 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
 
 5.  **Present:** All teams will be given **25-30 minutes** during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
 

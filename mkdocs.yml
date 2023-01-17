@@ -9,7 +9,6 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.tracking
   icon:
     logo: material/school
   favicon: assets/favicon.png
@@ -33,7 +32,11 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - toc:
       permalink: true
 plugins:
