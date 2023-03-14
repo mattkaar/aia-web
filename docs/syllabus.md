@@ -124,7 +124,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Graded Item                                                                                                                                                                |  Points |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: |
-| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow._                                       |     120 |
+| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow. Stated learning objectives are met._                                       |     120 |
 | **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ |      80 |
 | **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._                            |      50 |
 | **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._                            |      50 |
