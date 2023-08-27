@@ -44,7 +44,7 @@ At the end of the course, students should be able to:
 
 ### Homework Assignments
 
-Students will complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-project) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 4:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
+Students will individually complete hands-on labs as homework. These labs are delivered using the TopoMojo platform (<https://topomojo.ini.cmu.edu>), the same environment used to build [Group Projects](#group-project) later in the class. Homework assignments will be made available via Canvas, and students must complete each week's required homework by the following **Monday at 4:00pm ET**. This gives the TA time to grade homework prior to the start of class each week.
 
 ### Weekly Quizzes
 
@@ -53,6 +53,12 @@ The instructors will use 10-question quizzes at the beginning of class (weeks 2-
 ### Team Exercises
 
 The keystone components of AIA are the scenario-based team exercises. To complete these hands-on exercises, students will login to the TopoMojo environment: (<https://topomojo.ini.cmu.edu>). The TA will brief and debrief students on the objectives, requirements, and solutions for each exercise. Teams will have until the following **Monday at 4:00pm ET** to complete each exercise.
+
+!!! warning "Cheating Warning!"
+    
+    Team exercises are designed to be completed by all group members. Grades are assigned uniformly to group members for each submitted exercise.
+    
+    Sharing answers and/or solution methods between teams will result in a **ZERO (0)** exercise grade for all teams involved as well as other penalties outlined in the [Academic Misconduct](#academic-misconduct) section.
 
 ### Group Project
 
@@ -75,9 +81,7 @@ flowchart LR
 
     !!! warning "Plagiarism Warning!"
 
-        The lab manual must be the **original work** of the team.  Proper citation of all technical sources is required and can be included in the *References* section of the lab document. If plagiarism is identified in the submitted group project, all students will receive a **ZERO (0)** for the assignment, and an _Academic Integrity Violation Report_ will be submitted to the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
-
-        More information can be found in the [AIA Plagiarism Policy](#plagiarism-policy).
+        The lab manual must be the **original work** of the team.  Proper citation of all technical sources is required and must be included in the *References* section of the lab document. If [plagiarism](#plagiarism-policy) is identified in the submitted group project, all students will receive a **ZERO (0)** for the entire group project and other penalties outlined in the [Academic Misconduct](#academic-misconduct) section.
 
     -   At least **5** automated verification scripts must be included in the lab that when run, validate successful completion of the lab's learning objectives. These should assess student understanding (quiz questions) as well as query the state of project VMs to verify that steps are completed correctly. These scripts must also be included as text in appendix 1 at the end of the lab manual.
 
@@ -95,8 +99,19 @@ flowchart LR
 
 The above deliverables must be ready for grading by the start of class on **Week 12**. The order of the presentations will be selected at random, although teams can volunteer to present first if desired. To ensure all teams are provided the same project delivery timeline, teams will be locked out of their TopoMojo workspaces on week 12.
 
-
 ## Evaluation & Grading
+
+### Academic Misconduct 
+
+[Academic integrity](#statement-on-academic-integrity) is a core tenet of AIA. Instances of academic misconduct will be penalized with a **ZERO (0)** for the assignment and an _Academic Integrity Violation Report_ will be submitted to the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
+
+Examples of academic misconduct include (but are not limited to):
+
+1. [Plagiarism](#plagiarism-policy) in course deliverables (project proposal, lab document, etc.)
+
+2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work
+
+3. [Cheating](#cheating-policy) on team or individual assignments, including sharing answers and/or solution methods
 
 ### Late Submissions
 
@@ -124,7 +139,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Graded Item                                                                                                                                                                |  Points |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: |
-| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow. Stated learning objectives are met._                                       |     120 |
+| **Lab Functions Properly**<br/>_Everything works as expected and the Markdown lab manual makes logical sense and is easy to follow. Stated learning objectives are met._   |     120 |
 | **Presentation**<br/>_Presentation is instructionally sound with key points clearly taught and demonstrated. Demo works as planned without unacceptable errors or delays._ |      80 |
 | **Peer Review**<br/>_Provided adequate feedback to peers and addressed findings and suggestions for improvement in final project deliverables._                            |      50 |
 | **Automated Verification Scripts**<br/>_At least five (5) scripts designed to test key learning steps within project and all work as expected._                            |      50 |
@@ -153,18 +168,18 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **1** (Kaar, Herr)  | Aug 29   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
 | **2** (Herr)        | Sep 5    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
 | **3** (Kaar)        | Sep 12   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Sep 19*   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **4** (Herr)        | Sep 19   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
 | **5** (Kaar)        | Sep 26   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Oct 3    | Cyber Forensics Fundamentals                                   | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Oct 10   | Cyber Forensics Special Topics                                    | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| **6** (Herr)        | Oct 3    | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Oct 10   | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
 | _FALL BREAK_        | _Oct 17_ | _No class_                                                      |                                                         |
 | **8** (Kaar, Herr)  | Oct 24   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr)        | Oct 31    | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10** (Jain) | Nov 7    | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
+| **9** (Herr)        | Oct 31   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10** (Jain)       | Nov 7    | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1                   |
 | **11**              | Nov 14   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2                   |
 | **12**              | Nov 21   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
 | **13**              | Nov 28   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Dec 5    | Group Project Presentations<br/>Capstone CTF (bonus points)                                     | **HW12:** Group project labs                            |
+| **14**              | Dec 5    | Group Project Presentations<br/>Capstone CTF (bonus points)     | **HW12:** Group project labs                            |
 
 ## Course Policies
 

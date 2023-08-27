@@ -7,8 +7,13 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  features:
-    - navigation.instant
+#
+#  Disable instant navigation due to Safari anchor link issues
+#  https://github.com/squidfunk/mkdocs-material/issues/5239#issuecomment-1482661635
+#
+#  features:
+#    - navigation.instant
+#    - navigation.tracking
   icon:
     logo: material/school
   favicon: assets/favicon.png
