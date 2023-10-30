@@ -3,7 +3,7 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Fall 2023 <a href="#course-calendar"><span class="red">version 2</span></a>_
+_Fall 2023 <a href="#v2"><span class="red underline">version 2</span></a>_
 
 ## Course Details
 
@@ -175,7 +175,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | _FALL BREAK_        | _Oct 17_ | _No class_                                                      |                                                         |
 | **8** (Kaar, Herr)  | Oct 24   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
 | **9** (Herr)        | Oct 31   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | _Nov 7_  | _<span class="red">No class &mdash;</span> [Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | <span class="red">Prof Chris will hold office hours during<br>the class period (INI DEC/Zoom).</span><br/>**Exercise:** Operation Aurora Part 1 |
+| **10**              | _Nov 7_  | _<span id="v2" class="red">No class &mdash;</span> [Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | <span class="red">Prof Chris will hold office hours during<br>the class period (INI DEC/Zoom).</span><br/>**Exercise:** Operation Aurora Part 1 |
 | **11** (Jain)       | Nov 14   | <span class="red">TA Lecture&mdash;Topic TBD</span>             | **Exercise:** Operation Aurora Part 2                   |
 | **12**              | Nov 21   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
 | **13**              | Nov 28   | Group Project Presentations                                     | **HW11:** Group project labs                            |
