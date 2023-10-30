@@ -1,3 +1,11 @@
 .md-typeset .admonition {
-    font-size: 0.8rem
+    font-size: 0.8rem;
+}
+
+.red {
+    color: #ff1947;
+}
+
+.underline:hover {
+    text-decoration: underline;
 }
