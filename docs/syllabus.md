@@ -3,20 +3,20 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Fall 2023 <a href="#v2"><span class="red underline">version 2</span></a>_
+_Spring 2024_
 
 ## Course Details
 
 |                          |                                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Instructors**          | Matt Kaar <[mkaar@cmu.edu](mailto:mkaar@cmu.edu)><br/> Chris Herr <[cherr2@andrew.cmu.edu](mailto:cherr2@andrew.cmu.edu)> |
-| **Teaching Assistant**   | Ankshit Jain <[ankshitj@andrew.cmu.edu](mailto:ankshitj@andrew.cmu.edu)>                                                  |
+| **Teaching Assistant**   | Adam Hunt <[aahunt@andrew.cmu.edu](mailto:aahunt@andrew.cmu.edu)>                                                  |
 | **Office Hours**         | Zoom&mdash;by appointment                                                                                                 |
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
-| **Class Schedule**       | Tuesdays @ 4:00-6:20pm ET, 1:00-3:20pm PT                                                                                 |
-| **Class Location**       | INI DEC (Pittsburgh), B23 211 (Silicon Valley)                                                                            |
+| **Class Schedule**       | Tuesdays @ 4:00-6:50pm ET, 1:00-3:50pm PT                                                                                 |
+| **Class Location**       | INI DEC (Pittsburgh), B23 212 (Silicon Valley)                                                                            |
 | **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
@@ -62,7 +62,7 @@ The keystone components of AIA are the scenario-based team exercises. To complet
 
 ### Group Project
 
-The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **Week 2** of the course, students must select teammates with whom they will co-develop a group project. These **3-4 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **Week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
+The goal of the project is to provide a meaningful _learning experience_ (new hands-on lab) for future AIA students. By **Week 2** of the course, students must select teammates with whom they will co-develop a group project. These **3 person** teams will research, integrate, and document a cybersecurity technology instructional lab.  This will include the configuration of virtual machines and developing step-by-step procedures for completing the security or forensics technology best practice. Teams can select their own lab topics although instructors can help with topic ideas. An instructor checkpoint meeting will take place during **Week 8**. Instructors will meet with each team during class to discuss their progress. Students must demonstrate that they are at least 50% complete with their project according to their project plan submitted on week 4.
 
 #### Project Workflow
 
@@ -89,7 +89,7 @@ flowchart LR
 
 4.  **Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted.  On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 3 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**.  This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
 
-5.  **Present:** All teams will be given **25-30 minutes** during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
+5.  **Present:** All teams will be given **30 minutes** during the last 3 weeks of the course to present their project to the rest of the class. The teams must first present an overview of their lab (3-4 slides) that introduce the topic, learning objectives, and key takeaways. The teams must then interactively walk the class through the steps of their lab within TopoMojo as part of a **live** demonstration. Finally, students in AIA must complete each week's presented projects **as homework** before class starts the following week. Class attendance is **mandatory** during the group project presentations.
 
 #### Project Deliverables
 
@@ -165,21 +165,21 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #              | Date     | Class                                                           | Exercise/Homework                                       |
 | ------------------- | -------- | --------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Kaar, Herr)  | Aug 29   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Sep 5    | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Kaar)        | Sep 12   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Sep 19   | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Kaar)        | Sep 26   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Oct 3    | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Oct 10   | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _FALL BREAK_        | _Oct 17_ | _No class_                                                      |                                                         |
-| **8** (Kaar, Herr)  | Oct 24   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr)        | Oct 31   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10**              | _Nov 7_  | _<span id="v2" class="red">No class &mdash;</span> [Democracy Day](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)_<br>_Project Peer Reviews Assigned_ | <span class="red">_Prof Chris will hold office hours during<br>the class period (INI DEC/Zoom)._</span><br/>**Exercise:** Operation Aurora Part 1 |
-| **11** (Jain)       | Nov 14   | <span class="red">TA Lecture&mdash;Topic TBD</span>             | **Exercise:** Operation Aurora Part 2                   |
-| **12**              | Nov 21   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
-| **13**              | Nov 28   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Dec 5    | Group Project Presentations<br/>Capstone CTF (bonus points)     | **HW12:** Group project labs                            |
+| **1** (Kaar, Herr)  | Jan 16   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Jan 23   | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Kaar)        | Jan 30   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Feb 6    | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar)        | Feb 13   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr)        | Feb 20   | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Feb 27   | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _SPRING BREAK_      | _Mar 5_  | _No class_                                                      |                                                         |
+| **8** (Kaar, Herr)  | Mar 12   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr)        | Mar 19   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| **10** (Hunt)       | Mar 26   | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
+| **11**              | Apr 2   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2 |
+| **12**              | Apr 9   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
+| **13**              | Apr 16   | Group Project Presentations                                     | **HW11:** Group project labs                            |
+| **14**              | Apr 23    | Group Project Presentations<br/>Capstone CTF (bonus points)     | **HW12:** Group project labs                            |
 
 ## Course Policies
 
