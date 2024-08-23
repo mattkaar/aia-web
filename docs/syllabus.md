@@ -3,7 +3,7 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Spring 2024_
+_Fall 2024_
 
 ## Course Details
 
@@ -15,7 +15,7 @@ _Spring 2024_
 | **Units**                | 12                                                                                                                        |
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
-| **Class Schedule**       | Tuesdays @ 4:00-6:50pm ET, 1:00-3:50pm PT                                                                                 |
+| **Class Schedule**       | Tuesdays @ 4:00-6:20pm ET, 1:00-3:20pm PT                                                                                 |
 | **Class Location**       | INI DEC (Pittsburgh), B23 212 (Silicon Valley)                                                                            |
 | **Textbook Information** | N/A                                                                                                                       |
 
@@ -165,21 +165,21 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #              | Date     | Class                                                           | Exercise/Homework                                       |
 | ------------------- | -------- | --------------------------------------------------------------- | ------------------------------------------------------- |
-| **1** (Kaar, Herr)  | Jan 16   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
-| **2** (Herr)        | Jan 23   | Data Security                                                   | **HW2:** EIS Prep Labs 1-6                              |
-| **3** (Kaar)        | Jan 30   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
-| **4** (Herr)        | Feb 6    | Network Security<br/>_Group Project Proposals Due_              | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
-| **5** (Kaar)        | Feb 13   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
-| **6** (Herr)        | Feb 20   | Cyber Forensics Fundamentals                                    | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
-| **7** (Kaar)        | Feb 27   | Cyber Forensics Special Topics                                  | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
-| _SPRING BREAK_      | _Mar 5_  | _No class_                                                      |                                                         |
-| **8** (Kaar, Herr)  | Mar 12   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
-| **9** (Herr)        | Mar 19   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
-| **10** (Hunt)       | Mar 26   | TA Lecture&mdash;Topic TBD<br/> _Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1 |
-| **11**              | Apr 2   | _Project Peer Reviews Due_                                      | **Exercise:** Operation Aurora Part 2 |
-| **12**              | Apr 9   | _Group Projects Due_<br/>Group Project Presentations            | **HW10:** This week's group project labs                |
-| **13**              | Apr 16   | Group Project Presentations                                     | **HW11:** Group project labs                            |
-| **14**              | Apr 23    | Group Project Presentations<br/>Capstone CTF (bonus points)     | **HW12:** Group project labs                            |
+| **1** (Kaar, Herr)  | Aug 27   | Course Overview<br/>Hacking Lecture                             | **HW1:** TopoMojo Labs                                  |
+| **2** (Herr)        | Sep 3   | Data Security                                                    | **HW2:** EIS Prep Labs 1-6                              |
+| **3** (Kaar)        | Sep 10   | Host Security                                                   | **HW3:** EIS Prep Labs 7-11                             |
+| **4** (Herr)        | Sep 17    | Network Security<br/>_Group Project Proposals Due_             | **Exercise:** EIS Exercise Part 1<br/>**HW4:** TopoMojo |
+| **5** (Kaar)        | Sep 24   | Monitoring, Detection & Response                                | **Exercise:** EIS Exercise Part 2<br/>**HW5:** TopoMojo |
+| **6** (Herr)        | Oct 1   | Cyber Forensics Fundamentals                                     | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo         |
+| **7** (Kaar)        | Oct 8   | Cyber Forensics Special Topics                                   | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo         |
+| _FALL BREAK_      | _Oct 15_  | _No class_                                                     |                                                         |
+| **8** (Kaar, Herr)  | Oct 22   | _Group Project Check-in_                                        | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo     |
+| **9** (Herr)        | Oct 29   | Cloud Security                                                  | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo     |
+| [*DEMOCRACY DAY*](https://www.cmu.edu/leadership/the-provost/provost-initiatives/democracy-day/index.html)       | Nov 5    | _No class_: <br>_Project Peer Reviews Assigned_                   | **Exercise:** Operation Aurora Part 1 |
+| **11** (Hunt)              | Nov 12   | TA Lecture&mdash;Topic TBD<br>_Project Peer Reviews Due_         | **Exercise:** Operation Aurora Part 2 |
+| **12**              | Nov 19   | _Group Projects Due_<br/>Group Project Presentations             | **HW10:** This week's group project labs                |
+| **13**              | Nov 26   | Group Project Presentations                                     | **HW11:** Group project labs                            |
+| **14**              | Dec 3    | Group Project Presentations<br/>Capstone CTF (bonus points)    | **HW12:** Group project labs                            |
 
 ## Course Policies
 
