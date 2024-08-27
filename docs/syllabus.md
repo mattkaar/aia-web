@@ -80,13 +80,17 @@ flowchart LR
 
 3.  **Document:** A lab manual must be written clearly and concisely within the TopoMojo Markdown editor. Along with step-by-step instructions, this document must also contain instructive, contextual information that describes why the specific steps are being completed.
 
+    - At least **5** automated verification scripts must be included in the lab that when run, validate successful completion of the lab's learning objectives. These should assess student understanding (quiz questions) and/or query the state of project VMs to verify that steps are completed correctly. These scripts must also be included as text in appendix 1 at the end of the lab manual.
+
+    - A second appendix must include the quiz questions and answers included in the scripts (if applicable).
+
+    - A _References_ section at the end of the document must include citations in [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf). For example, citing this syllabus would look like this [1].
+
+        > [1] C. Herr, M. Kaar. "14-761: Applied Information Assurance syllabus," August, 2024. [Online]. Available: <https://www.andrew.cmu.edu/course/14-761/syllabus/>. [Accessed Aug. 27, 2024].
+
     !!! warning "Plagiarism Warning!"
 
-        The lab manual must be the **original work** of the team.  Proper citation of all technical sources is required and must be included in the *References* section of the lab document. If [plagiarism](#plagiarism-policy) is identified in the submitted group project, all students will receive a **ZERO (0)** for the entire group project and other penalties outlined in the [Academic Misconduct](#academic-misconduct) section.
-
-    - At least **5** automated verification scripts must be included in the lab that when run, validate successful completion of the lab's learning objectives. These should assess student understanding (quiz questions) as well as query the state of project VMs to verify that steps are completed correctly. These scripts must also be included as text in appendix 1 at the end of the lab manual.
-
-    - A second appendix must include the quiz questions and answers included in the scripts.
+        The lab manual must be the **original work** of the team.  Proper citation of all sources is required. If [plagiarism](#plagiarism-policy) is identified in the submitted group project, all students will receive a **ZERO (0)** for the entire group project and other penalties outlined in the [Academic Misconduct](#academic-misconduct) section.
 
 4.  **Review:** To enhance the quality of the final products and to promote collaboration, group project peer reviews will be conducted. On **Week 10** of the course, teams will be assigned to test-drive another team's lab and make comments on their documentation, structure, and overall quality. Peer feedback should be compiled into one document no more than 3 pages long. The review document must be sent to the owning team and posted to the group site on Canvas. This must be completed by the start of class on **Week 11**. This will give the owning team time to consider these comments and incorporate any suggestions/changes into their final project submission.
 
@@ -110,9 +114,13 @@ Examples of academic misconduct include (but are not limited to):
 
 1. [Plagiarism](#plagiarism-policy) in course deliverables (project proposal, lab document, etc.)
 
-2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work
+2. [Cheating](#cheating-policy) on team or individual assignments, including sharing answers and/or solution methods
 
-3. [Cheating](#cheating-policy) on team or individual assignments, including sharing answers and/or solution methods
+### Generative AI Use
+
+Generative AI tools (ChatGPT, Claude, etc.) are helpful when researching cybersecurity topics. Students can use these tools for that purpose. However, students are expected to author their own written work in AIA. Outputs from generative AI tools **CANNOT** be directly submitted as student work.
+
+This policy applies to all written deliverables including exercise answers and group project documents. Any use of generative AI must be cited alongside other reference sources.
 
 ### Late Submissions
 
