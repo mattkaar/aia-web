@@ -17,7 +17,7 @@ _Fall 2024_
 | **Sections**             | A (Pittsburgh), SV (Silicon Valley)                                                                                       |
 | **Prerequisites**        | None                                                                                                                      |
 | **Class Schedule**       | Tuesdays @ 4:00-6:20pm ET, 1:00-3:20pm PT                                                                                 |
-| **Class Location**       | INI DEC (Pittsburgh), B23 212 (Silicon Valley)                                                                            |
+| **Class Location**       | INI DEC (Pittsburgh), B23 211 (Silicon Valley)                                                                            |
 | **Textbook Information** | N/A                                                                                                                       |
 
 ## Course Overview
