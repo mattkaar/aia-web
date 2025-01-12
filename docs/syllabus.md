@@ -4,7 +4,7 @@
 # Syllabus
 
 **14-761: Applied Information Assurance**  
-_Fall 2024_
+_Spring 2025_
 
 ## Course Details
 
