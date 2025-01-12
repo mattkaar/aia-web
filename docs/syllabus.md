@@ -182,8 +182,8 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **6** (Herr) | Feb 18 | Cyber Forensics Fundamentals | **Exercise:** TRAC Part 1<br/>**HW6:** TopoMojo Lab |
 | **7** (Kaar) | Feb 25 | Cyber Forensics Special Topics | **Exercise:** TRAC Part 2<br/>**HW7:** TopoMojo Lab |
 | _SPRING BREAK_ | Mar 4 | **_NO CLASS_** |  |
-| **8** (Herr/Kaar) | Mar 11 | _Group Project Check-in_ | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo Lab |
-| **9** (Herr/Kaar) | Mar 18 | Cloud Security | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo Lab |
+| **8** (Herr, Kaar) | Mar 11 | _Group Project Check-in_ | **Exercise:** XYZ Bank Part 1<br/>**HW8:** TopoMojo Lab |
+| **9** (Herr, Kaar) | Mar 18 | Cloud Security | **Exercise:** XYZ Bank Part 2<br/>**HW9:** TopoMojo Lab |
 | **10** (Kashyap) | Mar 25 | TA Lecture&mdash;Topic TBD<br>_Project Peer Reviews Assigned_ | **Exercise:** Operation Aurora Part 1  |
 | **11** | Apr 1 | _NO LECTURE - FREE PERIOD_<br/>Project Peer Reviews Due | **Exercise:** Operation Aurora Part 2|
 | **12** | Apr 8 | Group Projects Due<br/>Group Project Presentations | **HW10:** This week's group project labs |
